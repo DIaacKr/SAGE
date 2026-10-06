@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1>SAGE</h1>
-<h3>Semantic Anchor-Guided Evolution for<br>Grounded Medical QA Data Synthesis</h3>
+<h3>Semantic Anchor-Guided Evolution for Grounded Medical QA Data Synthesis</h3>
 
 <p>
-Chuan Li<sup>1</sup>, Chengyu Wang<sup>2</sup>, Cen Chen<sup>1</sup>,<br>
+Chuan Li<sup>1</sup>, Chengyu Wang<sup>2</sup>, Cen Chen<sup>1</sup>,
 Ye Lyu<sup>1</sup>, Mingyuan Fan<sup>1</sup>, Ming Gao<sup>1</sup>
 </p>
 <p><sup>1</sup> East China Normal University &nbsp; <sup>2</sup> Alibaba Group</p>
