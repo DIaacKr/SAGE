@@ -31,6 +31,7 @@ Ye Lyu<sup>1</sup>, Mingyuan Fan<sup>1</sup>, Ming Gao<sup>1</sup>
 <p align="center">
   <img src="assets/figures/synthesis-paradigms.png" width="800" alt="Paper Figure 1: comparison of self-derived, document-based, and SAGE semantic-anchor-guided synthesis.">
 </p>
+
 *Figure 1. SAGE grounds generation in semantic anchors and evolves them through the synthesized questions.*
 
 - **Atomic grounding:** individual concepts guide generation through MeSH definitions and clinical qualifiers.
@@ -43,6 +44,7 @@ Ye Lyu<sup>1</sup>, Mingyuan Fan<sup>1</sup>, Ming Gao<sup>1</sup>
 <p align="center">
   <img src="assets/figures/framework.png" width="900" alt="SAGE framework: MeSH semantic anchors guide atomic and associative generation, followed by consistency checking and anchor evolution.">
 </p>
+
 *Figure 2. The MeSH taxonomy stays fixed; the active anchor configurations evolve.*
 
 </details>
